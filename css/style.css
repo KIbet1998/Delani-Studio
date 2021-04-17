@@ -32,3 +32,8 @@ h2{
 .whatWedo{
     padding-top: 2%;
 }
+
+.ContactUs{
+    background-image: url("../images/c_image.jpg");
+    text-align: center;
+}
