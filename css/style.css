@@ -20,3 +20,15 @@
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
+h2{
+    text-align: center;
+}
+#mouselogo{
+    position: absolute;
+    bottom: 40px;
+
+}
+.whatWedo{
+    padding-top: 2%;
+}
