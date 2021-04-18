@@ -69,8 +69,8 @@ $(".three").mouseenter(function(){
 });
 
 
-$(".four").mouseleave(function(){
-    $("#four").hide();
+$(".three").mouseleave(function(){
+    $("#three").hide();
 
    
 
@@ -83,14 +83,82 @@ $(".four").mouseenter(function(){
 });
 
 
-$(".three").mouseleave(function(){
-    $("#three").hide();
+$(".four").mouseleave(function(){
+    $("#four").hide();
 
    
 
 });
 
+
+$(".five").mouseenter(function(){
+    $("#five").show();
+   
+
 });
+
+$(".five").mouseleave(function(){
+    $("#five").hide();
+   
+
+});
+
+
+$(".five").mouseleave(function(){
+    $("#five").hide();
+
+   
+
+});
+
+$(".six").mouseenter(function(){
+    $("#six").show();
+   
+
+});
+
+
+$(".six").mouseleave(function(){
+    $("#six").hide();
+
+   
+
+});
+
+$(".seven").mouseenter(function(){
+    $("#seven").show();
+   
+
+});
+
+
+$(".seven").mouseleave(function(){
+    $("#seven").hide();
+
+   
+
+});
+
+
+$(".eight").mouseenter(function(){
+    $("#eight").show();
+   
+
+});
+
+
+$(".eight").mouseleave(function(){
+    $("#eight").hide();
+
+   
+
+});
+
+   
+});
+
+
+
 
 function submit(){
     alert("Your message has been received and thank you for contacting us");

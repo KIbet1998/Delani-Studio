@@ -91,7 +91,48 @@ h2{
 }
 
 #four{
-    /* display: none; */
+    display: none;
+    position: absolute;
+    left: 7px;
+    color:white;
+    padding-left: 78%;
+    padding-right: 20%;
+
+}
+
+#five{
+    display: none;
+    position: absolute;
+    left: 7px;
+    color:white;
+    padding-left: 10%;
+    padding-right: 20%;
+
+}
+
+
+#six{
+    display: none;
+    position: absolute;
+    left: 7px;
+    color:white;
+    padding-left: 33%;
+    padding-right: 20%;
+
+}
+
+#seven{
+    display: none;
+    position: absolute;
+    left: 7px;
+    color:white;
+    padding-left: 53%;
+    padding-right: 20%;
+
+}
+
+#eight{
+    display: none;
     position: absolute;
     left: 7px;
     color:white;
