@@ -45,3 +45,12 @@ h2{
 .footer{
     padding: 3%;
 }
+
+#designP{
+    display: none;
+}
+
+#developmentP{
+    display: none;
+
+}
