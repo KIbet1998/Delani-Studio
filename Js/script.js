@@ -21,6 +21,20 @@ $(document).ready(function(){
         
     });
 
+     
+    $("#product").click(function(){
+        $("#productP").show();
+        $("#product").hide();
+    });
+
+    $("#productP").click(function(){
+        $("#product").show();
+        $("#productP").hide();
+    
+});
+
+
+
 
 
 
