@@ -33,10 +33,66 @@ $(document).ready(function(){
     
 });
 
+$(".one").mouseenter(function(){
+    $("#one").show();
+   
+
+});
 
 
+$(".one").mouseleave(function(){
+    $("#one").hide();
+
+   
+
+});
 
 
+$(".two").mouseenter(function(){
+    $("#two").show();
+   
+
+});
 
 
-})
+$(".two").mouseleave(function(){
+    $("#two").hide();
+
+   
+
+});
+
+$(".three").mouseenter(function(){
+    $("#three").show();
+   
+
+});
+
+
+$(".four").mouseleave(function(){
+    $("#four").hide();
+
+   
+
+});
+
+$(".four").mouseenter(function(){
+    $("#four").show();
+   
+
+});
+
+
+$(".three").mouseleave(function(){
+    $("#three").hide();
+
+   
+
+});
+
+});
+
+function submit(){
+    alert("Your message has been received and thank you for contacting us");
+}
+

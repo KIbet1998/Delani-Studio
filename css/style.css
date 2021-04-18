@@ -58,3 +58,44 @@ h2{
 #productP{
     display: none;
 }
+
+#one{
+    display: none;
+    position: absolute;
+    left: 2px;
+    color:white;
+    padding-left: 10%;
+    padding-right: 20%;
+    
+}
+
+#two{
+    display: none;
+    position: absolute;
+    left: 7px;
+    color:white;
+    padding-left: 33%;
+    padding-right: 20%;
+    
+
+}
+
+#three{
+    display: none;
+    position: absolute;
+    left: 7px;
+    color:white;
+    padding-left: 53%;
+    padding-right: 20%;
+
+}
+
+#four{
+    /* display: none; */
+    position: absolute;
+    left: 7px;
+    color:white;
+    padding-left: 78%;
+    padding-right: 20%;
+
+}
